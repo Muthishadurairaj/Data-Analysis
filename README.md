@@ -61,7 +61,7 @@ Evaluates the overall order fulfillment performance.
 * Interactive Filters
 
 # My Actual Data:
-https://github.com/Muthishadurairaj/Data-Analysis/blob/main/After%20Changes.png
+[https://github.com/Muthishadurairaj/Data-Analysis/blob/main/After%20Changes.png](https://github.com/Muthishadurairaj/Data-Analysis/blob/main/Store%20Analysis.xlsx)
 
 # Data Analysis Before Changes:
 https://github.com/Muthishadurairaj/Data-Analysis/blob/main/Before%20Changes.png
