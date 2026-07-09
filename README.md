@@ -60,6 +60,15 @@ Evaluates the overall order fulfillment performance.
 * Further categorizes customers into Adult, Senior, and Teenager age groups.
 * Interactive Filters
 
+# My Actual Data:
+https://github.com/Muthishadurairaj/Data-Analysis/blob/main/After%20Changes.png
+
+# Data Analysis Before Changes:
+https://github.com/Muthishadurairaj/Data-Analysis/blob/main/Before%20Changes.png
+
+# Data Analysis After Changes:
+https://github.com/Muthishadurairaj/Data-Analysis/blob/main/After%20Changes.png  
+
 # Key Insights
 
 * Adult customers contribute the largest share of total sales.
